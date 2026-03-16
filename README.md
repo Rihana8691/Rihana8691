@@ -1,6 +1,6 @@
-## # 💻 Hi, I'm Rihana
-**3rd Year Software Engineering Student · Full-Stack Developer**  
+## 👋 Hi, I'm Rihana 🧕
 
+**3rd Year Software Engineering Student · Full-Stack Developer**  
 *Coding Enthusiast*
 
 ---
@@ -8,7 +8,7 @@
 ## 🖥 About Me
 I'm a passionate 3rd-year software engineering student who loves building clean, efficient, and impactful digital solutions. Currently exploring full-stack development while balancing university life.
 
-*"Coding with coffee and creativity" ☕✨*
+*"Coding with ideas and inspiration" 💡💻*
 
 ---
 
@@ -35,7 +35,7 @@ I'm a passionate 3rd-year software engineering student who loves building clean,
 
 ## 🌟 Featured Project
 ### CozyReads Bookstore
-A full-stack online bookstore platform with admin dashboard, user authentication, and inventory management.  
+A full-stack online bookstore platform with admin dashboard, user authentication, and inventory management.
 
 **Tech Stack:** Node.js · Express · PostgreSQL · JavaScript · Bootstrap  
 **Status:** ✅ Live & Deployed  
@@ -56,7 +56,7 @@ A full-stack online bookstore platform with admin dashboard, user authentication
 ---
 
 ## 🛠 Let's Connect
-[LinkedIn]((https://www.linkedin.com/in/rihanaa)) · [Email](rihanaabdellah8gmail.com) · [GitHub](https://github.com/Rihana8691)
+[LinkedIn](https://www.linkedin.com/in/rihanaa) · [Email](mailto:rihanaabdellah8@gmail.com) · [GitHub](https://github.com/Rihana8691)
 
 ---
 
@@ -65,12 +65,6 @@ Thanks for visiting! 🚀 Where curiosity meets code.
 
 ---
 
-## 🐍 GitHub Stats & Snake Animation
-![Snake animation](https://github.com/Rihana8691/blob/output/github-contribution-grid-snake.svg)  
-![Visitor Count](https://profile-counter.glitch.me/Rihana8691/count.svg) About Me
-I'm a passionate 3rd-year software engineering student who loves building clean, efficient, and impactful digital solutions. Currently exploring full-stack development while balancing university life.
-
-*"Coding with coffee and creativity" ☕✨*
-
----
-
+## 🐍 GitHub Stats & Visitor Count
+![Snake animation](https://raw.githubusercontent.com/Rihana8691/Rihana8691/main/github-contribution-grid-snake.svg)  
+![Visitor Count](https://profile-counter.glitch.me/Rihana8691/count.svg)
