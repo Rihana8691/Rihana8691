@@ -1,55 +1,71 @@
-## Hi there 👋
+# 👩‍💻 Hi, I'm Hilina
+**Software Engineering Student · Full-Stack Developer**  
 
-```md id="t6q2vn"
-# 👩‍💻 Hi, I'm Rihana
-
-### Software Engineering Student • Full-Stack Developer 🚀
-
-🌱 Currently learning **Full Stack Web Development**  
-💻 Building projects with **HTML, CSS, JavaScript, React, Node.js, Express, MongoDB**  
-🎯 Future interests: **AI • Cybersecurity • Robotics**  
-📍 Ethiopia  
+🌸 *Girl Coding*
 
 ---
 
-## 🌐 Connect With Me
-💼 LinkedIn: https://www.linkedin.com/in/rihanaa/  
-📧 Email: rihanaabdellah8@gmail.com  
+## 🌸 About Me
+I'm a passionate 3rd-year software engineering student who loves building clean, efficient, and impactful digital solutions. Currently exploring the vast world of full-stack development while balancing university life.
+
+*"Coding with coffee and creativity" ☕✨*
 
 ---
 
-## 🛠️ Tech Stack
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-lightgrey?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
+## 🎀 Tech Stack
+
+### 🌸 Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind-CB3837?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### 🌺 Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### ✨ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rihana8691&show_icons=true&theme=tokyonight)
+## 🌟 Featured Project
+### 📚 CozyReads Bookstore
+A full-stack online bookstore platform with admin dashboard, user authentication, and inventory management.  
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Rihana8691&theme=tokyonight)
+**Tech Stack:** Node.js · Express · PostgreSQL · JavaScript · Bootstrap  
+**Status:** ✅ Live & Deployed
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rihana8691&layout=compact&theme=tokyonight)
-
----
-
-## 🎯 Current Goal
-Become a strong full-stack developer through real-world projects 💡
+[View Project](https://github.com/hellyrj/Book-store)
 
 ---
 
-## ⚡ Fun Fact
-I learn best by building projects 🚀
+## 🌷 Currently Learning
+
+| Focus Area | Topics |
+|------------|--------|
+| Advanced Web | TypeScript · Next.js · GraphQL |
+| Backend Deep Dive | Microservices · REST APIs · Authentication |
+| DevOps | Docker · CI/CD · AWS Basics |
+| Future Goals | AI/ML · Cybersecurity · Robotics |
 
 ---
 
-## 🐍 Contribution Snake
-![Snake animation](https://github.com/Rihana8691/Rihana8691/blob/output/github-contribution-grid-snake.svg)
-```
+## 💌 Let's Connect!
+[LinkedIn](https://www.linkedin.com/in/hilina-hussien-824462288) · [Email](mailto:your-email@example.com) · [GitHub](https://github.com/hellyrj)
 
+---
+
+💖 "Code with grace, debug with patience" 💖  
+✨ Thanks for visiting! Always open to collaborations and learning opportunities.
+
+---
+
+## 🐍 GitHub Stats & Snake Animation
+![Snake animation](https://github.com/hellyrj/hellyrj/blob/output/github-contribution-grid-snake.svg)  
+![Visitor Count](https://profile-counter.glitch.me/hellyrj/count.svg)
