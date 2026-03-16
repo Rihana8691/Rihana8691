@@ -60,8 +60,8 @@ A full-stack online bookstore platform with admin dashboard, user authentication
 
 ---
 
-*"Code with grace, debug with patience"*  
-Thanks for visiting! Always open to collaborations and learning opportunities.
+*"Innovate with passion, improve with patience"*  
+Thanks for visiting! 🚀 Where curiosity meets code.
 
 ---
 
