@@ -8,7 +8,7 @@
 ## 🖥 About Me
 I'm a passionate 3rd-year software engineering student who loves building clean, efficient, and impactful digital solutions. Currently exploring full-stack development while balancing university life.
 
-*"Coding with curiosity and coffee-free energy" ⚡✨ *
+*"Coding with coffee and creativity" ☕✨*
 
 ---
 
