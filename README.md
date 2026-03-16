@@ -37,8 +37,16 @@ I'm a passionate 3rd-year software engineering student who loves building clean,
 ### CozyReads Bookstore
 A full-stack online bookstore platform with admin dashboard, user authentication, and inventory management.  
 
-**Tech Stack:** Node.js · Express · PostgreSQL · JavaScript · Bootstrap  
-**Status:** ✅ Live & Deployed  
+### 🌟 Featured Project: CozyReads Bookstore
+
+**Tech Stack:**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+**Status:** ✅ Live & Deployed 🚀
 
 [View Project](https://github.com/hellyrj/Book-store)
 
