@@ -1,4 +1,4 @@
-## # 💻 Hi, I'm Rihana
+##  👋 Hi, I'm Rihana
 **3rd Year Software Engineering Student · Full-Stack Developer**  
 
 *Coding Enthusiast*
@@ -8,7 +8,7 @@
 ## 🖥 About Me
 I'm a passionate 3rd-year software engineering student who loves building clean, efficient, and impactful digital solutions. Currently exploring full-stack development while balancing university life.
 
-*"Coding with coffee and creativity" ☕✨*
+*"Coding with curiosity and coffee-free energy" ⚡✨ *
 
 ---
 
@@ -56,7 +56,7 @@ A full-stack online bookstore platform with admin dashboard, user authentication
 ---
 
 ## 🛠 Let's Connect
-[LinkedIn]((https://www.linkedin.com/in/rihanaa)) · [Email](rihanaabdellah8gmail.com) · [GitHub](https://github.com/Rihana8691)
+[LinkedIn](https://www.linkedin.com/in/rihanaa) · [Email](rihanaabdellah8gmail.com) · [GitHub](https://github.com/Rihana8691)
 
 ---
 
