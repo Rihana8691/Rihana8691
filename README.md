@@ -57,11 +57,9 @@ A full-stack online bookstore platform with admin dashboard, user authentication
 
 ## 🛠 Let's Connect
 
-## 🛠 Let's Connect
-
-💌 **Email:** [rihanaabdellah8@gmail.com](mailto:rihanaabdellah8@gmail.com)  
-🔗 **LinkedIn:** [Rihana Hussien](https://www.linkedin.com/in/rihanaa)  
-🐙 **GitHub:** [Rihana8691](https://github.com/Rihana8691)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rihanaa) &nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rihanaabdellah8@gmail.com) &nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rihana8691)
 ---
 
 *"Innovate with passion, improve with patience"*  
