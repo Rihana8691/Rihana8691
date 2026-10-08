@@ -1,5 +1,5 @@
 ##  👋 Hi, I'm Rihana
-**3rd Year Software Engineering Student · Full-Stack Developer**  
+**4rd Year Software Engineering Student · Full-Stack Developer**  
 
 ---
 
