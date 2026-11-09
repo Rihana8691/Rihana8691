@@ -1,74 +1,100 @@
-##  👋 Hi, I'm Rihana
-**4th Year Software Engineering Student · Full-Stack Developer**  
+<!-- ===================== HEADER ===================== -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Hi,%20I'm%20Rihana&fontSize=55&fontAlignY=38&animation=fadeIn&desc=Software%20Engineering%20Student%20%C2%B7%20Full-Stack%20Developer&descAlignY=60&descSize=18" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+things+people+actually+use;Turning+coffee-free+energy+into+code+%E2%9A%A1;Final-year+SWE+student+%7C+Open+to+internships;Currently+learning+TypeScript+%26+Docker" alt="Typing animation" />
+
+</div>
 
 ---
 
-## 🖥 About Me
-I'm a passionate 4rh-year software engineering student who loves building clean, efficient, and impactful digital solutions. Currently exploring full-stack development while balancing university life.
+## 🧬 Developer Card
 
-*"Coding with curiosity and coffee-free energy" ⚡✨ *
+```js
+const rihana = {
+  role: "4th-Year Software Engineering Student",
+  focus: ["Full-Stack Web", "REST APIs", "Clean Code"],
+  currentlyBuilding: "Full-stack web apps with Node.js 🚀",
+  currentlyLearning: ["TypeScript", "Next.js", "Docker", "CI/CD"],
+  funFact: "I run on curiosity, not coffee ☕❌",
+  lookingFor: "Internships & junior full-stack roles",
+  motto: "Innovate with passion, improve with patience",
+};
+```
 
 ---
 
 ## ⚡ Tech Stack
 
-### Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind-CB3837?style=for-the-badge&logo=tailwindcss&logoColor=white)
+<div align="center">
 
-### Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,postgres,git,docker,vscode&perline=6" alt="Tech stack" />
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+</div>
 
 ---
 
 ## 🌟 Featured Project
-### CozyReads Bookstore
-A full-stack online bookstore platform with admin dashboard, user authentication, and inventory management.  
 
-### 🌟 Featured Project: CozyReads Bookstore
+### 📚 [CozyReads Bookstore](https://github.com/hellyrj/Book-store)
+A full-stack online bookstore with user authentication, inventory management, and an admin dashboard.
 
-**Tech Stack:**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+- 🔐 Secure login & registration
+- 📦 Admin inventory control
+- 🚀 Live & deployed
 
-**Status:** ✅ Live & Deployed 🚀
+**Built with:** Node.js · Express · PostgreSQL · JavaScript · Bootstrap
 
-[View Project](https://github.com/hellyrj/Book-store)
+[🔗 View Project](https://github.com/hellyrj/Book-store)
 
 ---
 
-## 🧩 Currently Learning
+## 📊 GitHub Activity
 
-| Focus Area | Topics |
-|------------|--------|
-| Advanced Web | TypeScript · Next.js · GraphQL |
-| Backend Deep Dive | Microservices · REST APIs · Authentication |
-| DevOps | Docker · CI/CD · AWS Basics |
-| Future Goals | AI/ML · Cybersecurity |
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rihana8691&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rihana8691&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com?user=Rihana8691&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rihana8691&theme=tokyo-night&hide_border=true" width="95%" />
+
+</div>
 
 ---
 
-## 🛠 Let's Connect
+## 🧩 Learning Roadmap
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rihanaa) &nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rihanaabdellah8@gmail.com) &nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rihana8691)
+<details>
+<summary><b>Click to expand 🚀</b></summary>
+
+| Focus | Topics |
+|-------|--------|
+| 🌐 Advanced Web | TypeScript · Next.js · GraphQL |
+| ⚙️ Backend | Microservices · REST APIs · Authentication |
+| ☁️ DevOps | Docker · CI/CD · AWS Basics |
+| 🔮 Next Up | AI/ML · Cybersecurity |
+
+</details>
+
 ---
 
-*"Innovate with passion, improve with patience"*  
-Thanks for visiting! 🚀 Where curiosity meets code.
+## 🤝 Let's Connect
 
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rihanaa)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rihanaabdellah8@gmail.com)
+
+<img src="https://komarev.com/ghpvc/?username=Rihana8691&label=Profile%20views&color=6C63FF&style=flat-square" />
+
+<br/>
+
+*Where curiosity meets code* 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%" />
+
+</div>
 ---
