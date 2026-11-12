@@ -1,6 +1,6 @@
 # Rihana
 
-**Backend-focused software engineer** · Software Engineering student at HILCoE, Addis Ababa, Ethiopia
+**Backend-focused software engineer** · Software Engineering 4th Year student at HILCoE, Addis Ababa, Ethiopia
 
 I build web and mobile applications from the database up. I currently work as a Backend Developer Intern on a production health platform, using TypeScript, Node.js, Express and PostgreSQL.
 
